@@ -1,0 +1,15 @@
+logrotate state -- version 2
+"/home/upota/.cache/upstart/indicator-power.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/indicator-bluetooth.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/im-config.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/indicator-sound.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/gnome-keyring-ssh.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/unity-panel-service.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/unity7.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/gnome-session-Unity.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/ssh-agent.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/window-stack-bridge.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/update-notifier-release.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/gnome-keyring-gpg.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/dbus.log" 2018-11-12-18:0:0
+"/home/upota/.cache/upstart/unity-settings-daemon.log" 2018-11-12-18:0:0
